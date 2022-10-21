@@ -6,4 +6,5 @@
 </div>
 <div>
   ![Snake animation](https://github.com/clayton7000/clayton7000/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/clayton7000/clayton7000/blob/output/github-contribution-grid-snake.svg)
 </div>
