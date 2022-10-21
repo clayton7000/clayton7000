@@ -1,6 +1,6 @@
 <img src="https://github.com/clayton7000/clayton7000/blob/main/greetings.gif" align="center" style="width: 100%" />
 
-## Olá, me chamo Clayton!
+## I'm Clayton fullstack developer!
 
 ```dart
 // tools_I_use organized
