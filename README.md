@@ -6,12 +6,14 @@
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Java", "Dart", "C++", "C", "Python", "Javascript" },
+    "ProgramingLanguages" : { "Java" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Sublime", "Neovim" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "Frameworks" : { "Spring" , "React.js" },
+    "Database" : { "MYSQL", "Mongodb" },
+    "Devops" : { "Docker", "AWS" },
+    "Editors" : { "Vscode", "Sublime" },
+    "Platforms" : { "GNU/Linux", "Windows" },    
+    "OtherTools" : { "Git" }
   };
 }
 ```
