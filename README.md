@@ -1,3 +1,4 @@
+<img src="https://clayton7000.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 ## Olá, me chamo Clayton!
 <div>
 <a href="https://github.com/clayton7000">
