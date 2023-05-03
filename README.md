@@ -8,12 +8,12 @@ class About extends Me {
   const myTools = {  
     "ProgramingLanguages" : { "Java" },
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Frameworks" : { "Spring" , "React.js" },
-    "Database" : { "MYSQL", "Mongodb" },
-    "Devops" : { "Docker", "AWS" },
-    "Editors" : { "Vscode", "Sublime" },
+    "Frameworks" : { "Spring" , "Angular" },
+    "Database" : { "MYSQL", "Postgresql", "Mongodb" },
+    "Devops" : { "Docker", "AWS", "Zabbix" },
+    "Editors" : { "Vscode", "Intellij" },
     "Platforms" : { "GNU/Linux", "Windows" },    
-    "OtherTools" : { "Git" }
+    "OtherTools" : { "Git", "Rabbitmq" }
   };
 }
 ```
